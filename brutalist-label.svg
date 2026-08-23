@@ -1,0 +1,80 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0a0a0a; }
+      .line { stroke: #ffffff; stroke-width: 4; fill: none; }
+      .thin-line { stroke: #ffffff; stroke-width: 2; fill: none; }
+      .text { fill: #ffffff; font-family: Impact, "Arial Black", sans-serif; }
+      .text-light { fill: #ffffff; font-family: "Courier New", monospace; font-weight: bold; }
+    </style>
+    <pattern id="checkerboard" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="#ffffff" />
+      <rect x="10" width="10" height="10" fill="#0a0a0a" />
+      <rect y="10" width="10" height="10" fill="#0a0a0a" />
+      <rect x="10" y="10" width="10" height="10" fill="#ffffff" />
+    </pattern>
+    <pattern id="barcode" width="40" height="20" patternUnits="userSpaceOnUse">
+      <rect width="2" height="20" fill="#ffffff" />
+      <rect x="5" width="4" height="20" fill="#ffffff" />
+      <rect x="12" width="1" height="20" fill="#ffffff" />
+      <rect x="15" width="6" height="20" fill="#ffffff" />
+      <rect x="25" width="3" height="20" fill="#ffffff" />
+      <rect x="32" width="2" height="20" fill="#ffffff" />
+      <rect x="36" width="1" height="20" fill="#ffffff" />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="400" class="bg" />
+
+  <!-- Outer Border -->
+  <rect x="10" y="10" width="780" height="380" class="line" />
+
+  <!-- Checkered Top Bar -->
+  <rect x="20" y="20" width="550" height="30" fill="url(#checkerboard)" />
+
+  <!-- Vertical Divider (Right Column) -->
+  <line x1="580" y1="10" x2="580" y2="390" class="line" />
+
+  <!-- Horizontal Divider (Bottom Row) -->
+  <line x1="10" y1="280" x2="580" y2="280" class="line" />
+
+  <!-- Main Left Text -->
+  <text x="20" y="150" class="text" font-size="120" letter-spacing="-2">KOUSHAL</text>
+  <text x="20" y="250" class="text" font-size="85" letter-spacing="-2">ENGINEER</text>
+
+  <!-- Right Panel -->
+  <text x="600" y="60" class="text" font-size="50">LVL</text>
+  <text x="600" y="250" class="text" font-size="220" letter-spacing="-5">9</text>
+  <text x="600" y="370" class="text-light" font-size="18">SYS.ERR_OK</text>
+  <text x="760" y="40" class="text" font-size="20">+</text>
+  <text x="760" y="380" class="text" font-size="20">+</text>
+
+  <!-- Bottom Row: Sub Panels -->
+  <!-- Box 1 -->
+  <rect x="20" y="295" width="300" height="35" class="thin-line" />
+  <text x="30" y="322" class="text-light" font-size="22">AI / ML / DATA</text>
+
+  <!-- Barcode Area -->
+  <rect x="340" y="295" width="150" height="35" fill="url(#barcode)" />
+
+  <!-- Box 2 (Symbols) -->
+  <rect x="510" y="295" width="50" height="35" class="thin-line" />
+  <line x1="510" y1="295" x2="560" y2="330" class="thin-line" />
+  <line x1="560" y1="295" x2="510" y2="330" class="thin-line" />
+
+  <!-- Bottom Most Bar -->
+  <rect x="20" y="345" width="470" height="35" fill="#ffffff" />
+  <text x="30" y="372" class="text" font-size="26" fill="#0a0a0a">100% C O M P L E T E . S Y S</text>
+
+  <!-- Small geometric circles -->
+  <circle cx="535" cy="362" r="12" class="thin-line" />
+  <circle cx="535" cy="362" r="4" fill="#ffffff" />
+
+  <!-- Little Arrow Icon (Top Right of Main Panel) -->
+  <g transform="translate(530, 20)">
+    <rect x="0" y="0" width="30" height="30" class="thin-line" />
+    <path d="M 5,25 L 25,5 M 10,5 L 25,5 L 25,20" class="thin-line" />
+  </g>
+
+</svg>

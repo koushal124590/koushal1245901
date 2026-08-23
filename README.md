@@ -2,10 +2,8 @@
   <img src="3d-logo-spinning.gif" width="100%" alt="3D Logo" />
 </p>
 
-<h1 align="center">Hey, I'm <b>Koushal</b> 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%E2%9A%A1+AI+%26+Machine+Learning+Enthusiast;%F0%9F%9B%A0%EF%B8%8F+Data+Engineering+Explorer;%F0%9F%92%BB+B.Tech+CSE+(AIML)+%40+GLA+University;%F0%9F%8C%90+WebGPU+%26+3D+Graphics+Builder" alt="Typing SVG" />
+  <img src="brutalist-label.svg" width="100%" alt="Koushal Label" />
 </p>
 
 <p align="center">
