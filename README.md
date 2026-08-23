@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=220&section=header&text=Koushal&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Data%20Engineering%20%7C%20Software%20Developer&descSize=18&descColor=CCCCCC&descAlignY=55" width="100%" />
-
 <p align="center">
-  <img src="3d-logo-spinning.gif" width="200" alt="3D Logo" />
+  <img src="3d-logo-spinning.gif" width="100%" alt="3D Logo" />
 </p>
+
+<h1 align="center">Hey, I'm <b>Koushal</b> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%E2%9A%A1+AI+%26+Machine+Learning+Enthusiast;%F0%9F%9B%A0%EF%B8%8F+Data+Engineering+Explorer;%F0%9F%92%BB+B.Tech+CSE+(AIML)+%40+GLA+University;%F0%9F%8C%90+WebGPU+%26+3D+Graphics+Builder" alt="Typing SVG" />
@@ -119,7 +119,7 @@ fun_fact: "I turn SVGs into 3D spinning objects for fun 🌀"
 
 <p align="center">
   <a href="https://github.com/koushal124590">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=koushal124590&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=FFFFFF&title_color=FFFFFF&text_color=CCCCCC" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koushal124590&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=FFFFFF&title_color=FFFFFF&text_color=CCCCCC" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/koushal124590">
     <img width="49%" src="https://streak-stats.demolab.com?user=koushal124590&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=999999" alt="Streak" />
@@ -128,7 +128,7 @@ fun_fact: "I turn SVGs into 3D spinning objects for fun 🌀"
 
 <p align="center">
   <a href="https://github.com/koushal124590">
-    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=koushal124590&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC" alt="Top Languages" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushal124590&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC" alt="Top Languages" />
   </a>
 </p>
 
