@@ -1,21 +1,22 @@
-<p align="center">
-  <img src="3d-logo-spinning.gif" width="220" alt="3D Logo" />
-</p>
-
-<h1 align="center">Hey, I'm <b>Koushal</b> 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=220&section=header&text=Koushal&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Data%20Engineering%20%7C%20Software%20Developer&descSize=18&descColor=CCCCCC&descAlignY=55" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=000000&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%E2%9A%A1+AI+%26+Machine+Learning+Enthusiast;%F0%9F%9B%A0%EF%B8%8F+Data+Engineering+Explorer;%F0%9F%92%BB+Software+Developer+%7C+B.Tech+CSE+(AIML)" alt="Typing SVG" />
+  <img src="3d-logo-spinning.gif" width="200" alt="3D Logo" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=koushal124590&label=Profile+Views&color=000000&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/koushal124590?label=Followers&style=flat-square&color=000000" alt="Followers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=520&height=45&lines=%E2%9A%A1+AI+%26+Machine+Learning+Enthusiast;%F0%9F%9B%A0%EF%B8%8F+Data+Engineering+Explorer;%F0%9F%92%BB+B.Tech+CSE+(AIML)+%40+GLA+University;%F0%9F%8C%90+WebGPU+%26+3D+Graphics+Builder" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/koushal124590"><img src="https://komarev.com/ghpvc/?username=koushal124590&label=Profile+Views&color=000000&style=for-the-badge" alt="Views" /></a>
+  <a href="https://github.com/koushal124590?tab=followers"><img src="https://img.shields.io/github/followers/koushal124590?label=Followers&style=for-the-badge&color=000000" alt="Followers" /></a>
+  <a href="https://github.com/koushal124590?tab=repositories"><img src="https://img.shields.io/github/stars/koushal124590?label=Stars&style=for-the-badge&color=000000" alt="Stars" /></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⚡ About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" /> About Me
 
 ```yaml
 name: Koushal
@@ -41,7 +42,7 @@ fun_fact: "I turn SVGs into 3D spinning objects for fun 🌀"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠 Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" /> Tech Stack
 
 <table align="center">
 <tr>
@@ -114,25 +115,33 @@ fun_fact: "I turn SVGs into 3D spinning objects for fun 🌀"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25" /> GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koushal124590&show_icons=true&theme=graywhite&hide_border=true&icon_color=000000&title_color=000000&text_color=333333" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=koushal124590&theme=white-ice&hide_border=true&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000" alt="Streak" />
+  <a href="https://github.com/koushal124590">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=koushal124590&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=FFFFFF&title_color=FFFFFF&text_color=CCCCCC" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/koushal124590">
+    <img width="49%" src="https://streak-stats.demolab.com?user=koushal124590&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=999999" alt="Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushal124590&layout=compact&theme=graywhite&hide_border=true&title_color=000000&text_color=333333" alt="Top Languages" />
+  <a href="https://github.com/koushal124590">
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=koushal124590&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC" alt="Top Languages" />
+  </a>
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=koushal124590&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=cccccc&area=true&hide_border=true" width="100%">
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=koushal124590&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=333333&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=koushal124590&theme=flat&column=7&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=koushal124590&theme=darkhub&column=7&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -140,11 +149,7 @@ fun_fact: "I turn SVGs into 3D spinning objects for fun 🌀"
 ## ✍️ Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:444444&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=75" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,100:000000&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=75" width="100%" />
