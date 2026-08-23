@@ -119,16 +119,16 @@ fun_fact: "I turn SVGs into 3D spinning objects for fun 🌀"
 
 <p align="center">
   <a href="https://github.com/koushal124590">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=koushal124590&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=FFFFFF&title_color=FFFFFF&text_color=CCCCCC" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=koushal124590&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=FFFFFF&title_color=FFFFFF&text_color=CCCCCC" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/koushal124590">
-    <img width="49%" src="https://streak-stats.demolab.com?user=koushal124590&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=999999" alt="Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=koushal124590&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=999999" alt="Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/koushal124590">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushal124590&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushal124590&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC" alt="Top Languages" />
   </a>
 </p>
 
