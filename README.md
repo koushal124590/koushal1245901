@@ -115,28 +115,7 @@ fun_fact: "I turn SVGs into 3D spinning objects for fun 🌀"
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25" /> GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/koushal124590">
-    <img src="https://github-readme-stats.vercel.app/api?username=koushal124590&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=FFFFFF&title_color=FFFFFF&text_color=CCCCCC" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/koushal124590">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=koushal124590&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=999999" alt="Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/koushal124590">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushal124590&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=CCCCCC" alt="Top Languages" />
-  </a>
-</p>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=koushal124590&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area_color=333333&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 
